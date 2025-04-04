@@ -1601,13 +1601,5 @@ with tab2:
 with tab3:
     create_question_generation_tab()
 
-# Footer
-st.markdown("""
----
-This application uses:
-- [RDKit](https://www.rdkit.org/) for molecular operations and visualization
-- [Google's Gemini AI](https://ai.google.dev/) for generating chemical content
-- [Streamlit](https://streamlit.io/) for the web interface
-- [Py3DMol](https://3dmol.csb.pitt.edu/) for 3D molecular visualization (when available)
-""")
+
 
