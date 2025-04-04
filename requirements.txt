@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pillow
+matplotlib
+rdkit
+numpy
+pydantic
+json5
+py3Dmol
