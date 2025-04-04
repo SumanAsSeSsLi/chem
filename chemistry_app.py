@@ -1042,7 +1042,7 @@ def generate_chemistry_questions(context, num_questions, use_cairo=False):
             f"3. For equation-based questions:\n"
             f"   - Focus on stoichiometry, equilibrium, kinetics, or thermodynamics\n"
             f"   - Include balanced chemical equations where relevant\n"
-            f"   - Format equations using proper LaTeX with double backslashes (e.g., \\\\frac{{a}}{{b}} instead of \\frac{a}{b})\n"
+            f"   - Format equations using proper LaTeX with double backslashes (e.g., \\\\frac{{a}}{{b}} instead of \\frac{{a}}{{b}})\n"
             f"4. Keep all questions challenging but solvable\n"
             f"5. Format solutions with clear steps:\n"
             f"   - Each step should be on a new line\n"
